@@ -17,7 +17,8 @@
 <p>-Add: using vRez</p>
 <p>-create a VRezManager</p>
 <p>in Initialize, after: base.Initialize();</p>
-<p>-initialize the VRezManager: vrez = new VRezManager(GraphicsDevice, Window, "your virtual width", "your virtual Height");</p>
+<p>-initialize the VRezManager:</p> 
+<p>vrez = new VRezManager(GraphicsDevice, Window, "your virtual width", "your virtual Height");</p>
 <p>then in your Draw method:</p>
 <p>-use: vrez.BeginDraw(GraphicsDevice); before your batch begin</p>
 <p>-to render to the window again you can use: vrez.EndDraw(spriteBatch, GraphicsDevice);</p>
