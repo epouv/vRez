@@ -11,7 +11,6 @@
     <description>A lightweight virtual resolution rendering system for MonoGame.</description>
     <tags>monogame virtualresolution</tags>
     <readme>README.md</readme>
-    <readme>README.md</readme>
     <dependencies>
     <group targetFramework=".NETCoreApp8.0" />
     </dependencies>
