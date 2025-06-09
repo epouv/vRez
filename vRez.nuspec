@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>vRez</id>
+    <version>1.0.0</version>
+    <authors>Etienne Pouvreau</authors>
+    <owners>Etienne Pouvreau</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/epouv/vRez</projectUrl>
+    <description>A lightweight virtual resolution rendering system for MonoGame.</description>
+    <tags>monogame virtualresolution pixelart</tags>
+    <readme>README.md</readme>
+    <dependencies>
+    <group targetFramework=".NETCoreApp8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+      <file src="lib\net8.0\vRez.dll" target="lib\net8.0" />
+      <file src="README.md" target="" />
+  </files>
+</package>

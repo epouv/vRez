@@ -1,0 +1,23 @@
+# .NET build output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# MonoGame Content Pipeline
+Content/bin/
+Content/obj/
+
+# VS Code
+.vscode/
+
+# Build artifacts
+*.dll
+*.pdb
+*.exe
