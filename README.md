@@ -3,8 +3,9 @@
 **vRez** is a lightweight virtual resolution rendering system for MonoGame.
 
 ## Features
-- Pixel-perfect scaling
+- Set your desired fixed resolution and let vRez scale it to the screen
 - Handles aspect ratio and letterboxing
+- Provides coordinates convertion from screen to virtual space
 - Easy-to-use API
 
 ## Installation
